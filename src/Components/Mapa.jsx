@@ -222,7 +222,7 @@ const Inicio = () => {
   };
 
   return (
-    <div className="relative w-full h-auto">
+    <div className="relative w-full h-auto overflow-hidden">
       <img
         src={mostrarMapa ? mapa : inicio}
         alt="Inicio"
