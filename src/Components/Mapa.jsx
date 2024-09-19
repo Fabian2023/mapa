@@ -300,7 +300,7 @@ const Inicio = () => {
       )}
 
       {mostrarVideoRojo && (
-        <div className="absolute top-0 left-0 w-full h-full flex items-center justify-center bg-black bg-opacity-75">
+        <div className="absolute top-0 left-0 w-full h-full flex items-center justify-center bg-black bg-opacity-75 overflow-hidden">
           <video
             src={payu}
             autoPlay
@@ -312,7 +312,7 @@ const Inicio = () => {
       )}
 
       {mostrarVideoAzul && (
-        <div className="absolute top-0 left-0 w-full h-full flex items-center justify-center bg-black bg-opacity-75">
+        <div className="absolute top-0 left-0 w-full h-full flex items-center justify-center bg-black bg-opacity-75 overflow-hidden">
           <video
             src={telesing}
             autoPlay
@@ -323,7 +323,7 @@ const Inicio = () => {
         </div>
       )}
       {mostrarVideoGris && (
-        <div className="absolute top-0 left-0 w-full h-full flex items-center justify-center bg-black bg-opacity-75">
+        <div className="absolute top-0 left-0 w-full h-full flex items-center justify-center bg-black bg-opacity-75 overflow-hidden">
           <video
             src={pow}
             autoPlay
@@ -334,7 +334,7 @@ const Inicio = () => {
         </div>
       )}
       {mostrarVideoGreen && (
-        <div className="absolute top-0 left-0 w-full h-full flex items-center justify-center bg-black bg-opacity-75">
+        <div className="absolute top-0 left-0 w-full h-full flex items-center justify-center bg-black bg-opacity-75 overflow-hidden">
           <video
             src={Emblue}
             autoPlay
@@ -345,7 +345,7 @@ const Inicio = () => {
         </div>
       )}
       {mostrarVideo5 && (
-        <div className="absolute top-0 left-0 w-full h-full flex items-center justify-center bg-black bg-opacity-75">
+        <div className="absolute top-0 left-0 w-full h-full flex items-center justify-center bg-black bg-opacity-75 overflow-hidden">
           <video
             src={sde}
             autoPlay
@@ -356,7 +356,7 @@ const Inicio = () => {
         </div>
       )}
       {mostrarVideo6 && (
-        <div className="absolute top-0 left-0 w-full h-full flex items-center justify-center bg-black bg-opacity-75">
+        <div className="absolute top-0 left-0 w-full h-full flex items-center justify-center bg-black bg-opacity-75 overflow-hidden">
           <video
             src={servientrega}
             autoPlay
@@ -367,7 +367,7 @@ const Inicio = () => {
         </div>
       )}
       {mostrarVideo7 && (
-        <div className="absolute top-0 left-0 w-full h-full flex items-center justify-center bg-black bg-opacity-75">
+        <div className="absolute top-0 left-0 w-full h-full flex items-center justify-center bg-black bg-opacity-75 overflow-hidden">
           <video
             src={Vtex}
             autoPlay
@@ -378,7 +378,7 @@ const Inicio = () => {
         </div>
       )}
       {mostrarVideo8 && (
-        <div className="absolute top-0 left-0 w-full h-full flex items-center justify-center bg-black bg-opacity-75">
+        <div className="absolute top-0 left-0 w-full h-full flex items-center justify-center bg-black bg-opacity-75 overflow-hidden">
           <video
             src={Yandex}
             autoPlay
@@ -389,7 +389,7 @@ const Inicio = () => {
         </div>
       )}
       {mostrarVideo9 && (
-        <div className="absolute top-0 left-0 w-full h-full flex items-center justify-center bg-black bg-opacity-75">
+        <div className="absolute top-0 left-0 w-full h-full flex items-center justify-center bg-black bg-opacity-75 overflow-hidden">
           <video
             src={Regnum}
             autoPlay
@@ -400,7 +400,7 @@ const Inicio = () => {
         </div>
       )}
       {mostrarVideo10 && (
-        <div className="absolute top-0 left-0 w-full h-full flex items-center justify-center bg-black bg-opacity-75">
+        <div className="absolute top-0 left-0 w-full h-full flex items-center justify-center bg-black bg-opacity-75 overflow-hidden">
           <video
             src={PasarEx}
             autoPlay
@@ -411,7 +411,7 @@ const Inicio = () => {
         </div>
       )}
       {mostrarVideo11 && (
-        <div className="absolute top-0 left-0 w-full h-full flex items-center justify-center bg-black bg-opacity-75">
+        <div className="absolute top-0 left-0 w-full h-full flex items-center justify-center bg-black bg-opacity-75 overflow-hidden">
           <video
             src={coordinadora}
             autoPlay
@@ -422,7 +422,7 @@ const Inicio = () => {
         </div>
       )}
       {mostrarVideo12 && (
-        <div className="absolute top-0 left-0 w-full h-full flex items-center justify-center bg-black bg-opacity-75">
+        <div className="absolute top-0 left-0 w-full h-full flex items-center justify-center bg-black bg-opacity-75 overflow-hidden">
           <video
             src={ingeneo}
             autoPlay
@@ -433,7 +433,7 @@ const Inicio = () => {
         </div>
       )}
       {mostrarVideo13 && (
-        <div className="absolute top-0 left-0 w-full h-full flex items-center justify-center bg-black bg-opacity-75">
+        <div className="absolute top-0 left-0 w-full h-full flex items-center justify-center bg-black bg-opacity-75 overflow-hidden">
           <video
             src={cubik}
             autoPlay
@@ -444,7 +444,7 @@ const Inicio = () => {
         </div>
       )}
       {mostrarVideo14 && (
-        <div className="absolute top-0 left-0 w-full h-full flex items-center justify-center bg-black bg-opacity-75">
+        <div className="absolute top-0 left-0 w-full h-full flex items-center justify-center bg-black bg-opacity-75 overflow-hidden">
           <video
             src={dropi}
             autoPlay
@@ -455,7 +455,7 @@ const Inicio = () => {
         </div>
       )}
       {mostrarVideo15 && (
-        <div className="absolute top-0 left-0 w-full h-full flex items-center justify-center bg-black bg-opacity-75">
+        <div className="absolute top-0 left-0 w-full h-full flex items-center justify-center bg-black bg-opacity-75 overflow-hidden">
           <video
             src={mocion}
             autoPlay
@@ -466,7 +466,7 @@ const Inicio = () => {
         </div>
       )}
       {mostrarVideo16 && (
-        <div className="absolute top-0 left-0 w-full h-full flex items-center justify-center bg-black bg-opacity-75">
+        <div className="absolute top-0 left-0 w-full h-full flex items-center justify-center bg-black bg-opacity-75 overflow-hidden">
           <video
             src={Data4Sales}
             autoPlay
